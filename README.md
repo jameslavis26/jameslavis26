@@ -1,3 +1,4 @@
+## James Lavis - Data Scientist
 ## Data Scientist
 
 ### About me
