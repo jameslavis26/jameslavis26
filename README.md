@@ -1,6 +1,6 @@
-# Data Scientist
+## Data Scientist
 
-## About me
+### About me
 
 I am an early-career data scientist with a strong passion for harnessing data to drive meaningful change. My background in physics has equipped me with a unique ability to analyze complex problems through mathematical and computational lenses, allowing me to innovate solutions in analytics and machine learning.
 
@@ -8,7 +8,7 @@ Throughout my academic journey and professional experience, I’ve honed my skil
 
 Driven by a passion for the field, I am excited to continue exploring diverse data science challenges and apply my learnings to challenging projects that contribute to the social good.
 
-## Education
+### Education
 Masters of Data Science - University of Queensland
 - Graduated 2023
 
@@ -18,4 +18,4 @@ Bachelor of Science Honours Class 1 (Physics) - University of Queensland
 Bachelor of Science (Physics) - University of Queensland
 - Graduated 2019
 
-## Portfolio projects
+### Portfolio projects
