@@ -20,7 +20,7 @@ Under the supervision of Jonathan Ferrer-Mestres, I began by implementing the st
 A key challenge in this project was ensuring that the learned abstractions preserved the effectiveness of the MDP while remaining interpretable for human decision-makers. Traditional machine learning models optimized for classification accuracy but struggled with "sensitive states"—those whose misclassification significantly impacted decision outcomes. 
 
 ## Bachelor of Science (Honours) - Superconducting quantum devices laboratory at the University of Queensland (2020 - 2021)
-In Australia, students can complete an honours degree instead of a masters degree for entry into a PhD program. An honours degree has the same research requirement as a masters degree, but with a more condensed course requirement. 
+In Australia, an honours degree provides a focused research pathway between undergraduate and PhD studies, offering an intensive year of independent research with fewer coursework requirements than a master's degree. While the degree takes less time to complete than a master's, it has the same research requirements as a master's degree.
 
 For this project, I worked on detecting and characterizing non-equilibrium quasiparticle bursts in superconducting devices. These bursts occur when high-energy ionizing radiation impacts a chip, generating high-energy phonons that propagate through the device. Cooper pairs in the superconducting materials on the chip are broken, creating quasiparticles which contribute to decoherence in superconducting qubits and pose challenges for high kinetic inductance detectors and quantum error correction.
 
