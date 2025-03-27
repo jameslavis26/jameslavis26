@@ -28,6 +28,12 @@ To investigate this phenomenon, I used high kinetic inductance granular aluminiu
 
 This work was part of a larger effort aimed at mitigating quasiparticle bursts by developing phononic low-pass filters. The ultimate goal of this research was to improve the stability of superconducting devices and enhance the performance of quantum computing and sensing applications.
 
+# Education
+- Master of Data Science from The University of Queensland (Graduated 2023)
+- Bachelor of Science (Honours Class 1) with a major in Physics from The University of Queensland (Graduated 2021)
+    - Achieved a deans commendation award for academic excellence
+- Bachelor of Science with a major in Physics from The University of Queensland (Graduated 2019)
+
 # Masters and Honours Thesis
 - [Masters Thesis](Masters%20Report.pdf)
 - [Honours Thesis](Honours%20Thesis.pdf)
